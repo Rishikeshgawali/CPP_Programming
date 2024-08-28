@@ -1,0 +1,1 @@
+This repository is dedicated to solving common and interesting problems using C and C++. Each problem is implemented with an emphasis on clean code, efficiency, and good programming practices. The problems include coding challenges that are frequently encountered in competitive programming and technical interviews.# C_CPP_ProblemSolving
